@@ -107,7 +107,7 @@ Most trending videos are published during peak hours, but timing shows weak corr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/YT_DataCollectionAnalysis.git
+git clone https://github.com/Mehardeep79/Youtube-Trending-Videos-Data-Collection-Analysis.git
 cd YT_DataCollectionAnalysis
 ```
 
@@ -260,7 +260,7 @@ YT_DataCollectionAnalysis/
 
 ### 📞 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mehardeep-singh-sandhu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/Mehardeep79)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:sandhu.mehardeep792003@gmail.com)
 
