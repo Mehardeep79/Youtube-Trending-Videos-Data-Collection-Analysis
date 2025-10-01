@@ -35,7 +35,11 @@ Our analysis reveals that YouTube trending videos follow a **right-skewed distri
 
 The correlation analysis demonstrates powerful interconnections between different engagement metrics:
 
-![Correlation Matrix](assets/viewslikescommentscorrelation.png)
+<p align="left">
+  <img src="assets/viewslikescommentscorrelation.png" width="60%" alt="Correlation Matrix">
+</p>
+
+<p><em>Fig: Correlation Matrix</em></p>
 
 **Correlation Strengths:**
 - **Views ↔ Likes**: 0.69 (Strong positive correlation)
@@ -50,7 +54,11 @@ This reveals a **positive feedback loop** where higher engagement in one metric 
 
 Gaming dominates the trending landscape, but the story becomes more interesting when we examine engagement quality:
 
-![Category Distribution](assets/trendingvideoscategory.png)
+<p align="left">
+  <img src="assets/trendingvideoscategory.png" width="60%" alt="Category Distribution">
+</p>
+
+<p><em>Fig: Category Distribution</em></p>
 
 ### 🎯 Average Engagement by Category
 
